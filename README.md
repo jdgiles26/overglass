@@ -1,8 +1,8 @@
- # Project: OverGlass Replica
+ # Project: OverGlass 
 
 ## Introduction
 
-OverGlass Replica is a comprehensive application designed to process 
+OverGlass  is a comprehensive application designed to process 
 real-time video streams from various sources and perform advanced data 
 analysis. The project has been developed by Joshua Giles and is intended 
 for real-world implementations requiring high-performance data ingestion, 
@@ -10,7 +10,7 @@ processing, and analysis.
 
 ## Project Overview
 
-OverGlass Replica is built with a modular architecture that allows easy 
+OverGlass is built with a modular architecture that allows easy 
 integration of different connectors for handling various video stream 
 sources, such as RTSP streams and custom APIs. The application processes 
 the received video data in real-time and performs analytics on it using 
@@ -29,11 +29,11 @@ analytics
 
 ## Getting Started
 
-To get started with OverGlass Replica, follow these steps:
+To get started with OverGlass , follow these steps:
 
 1. Install the required dependencies by --> npm run build
 --you get... 
-> overglass-replica@2.0.0 build
+> overglass@2.0.0 build
 > tsc -b && vite build
 vite v5.4.21 building for production...
 ✓ 3857 modules transformed.
